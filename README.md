@@ -16,5 +16,4 @@ hello dotty!
 
 ## References
 
-- TBD
-
+- [mog project: Scala: Getting Started with Dotty](http://mogproject.blogspot.jp/2015/03/scala-getting-started-with-dotty.html)
