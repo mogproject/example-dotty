@@ -1,0 +1,4 @@
+hello/
+*.class
+.DS_Store
+*.swp
