@@ -3,7 +3,7 @@ dotty-example
 
 ## Prereq
 
-- [dotty]()
+- [dotty](https://github.com/lampepfl/dotty)
 - JDK 8
 
 ## Usage

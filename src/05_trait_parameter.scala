@@ -11,4 +11,3 @@ object trait_parameter {
     Coord.show()
   }
 }
-
